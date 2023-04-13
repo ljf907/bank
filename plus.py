@@ -10,7 +10,7 @@ from sklearn import metrics
 #%matplotlib inline
 
 # 导入数据
-full_data = pd.read_csv("D:\\st\\1\\train_ctrUa4K.csv")
+full_data = pd.read_csv("train_ctrUa4K.csv")
 #full_data = pd.read_csv("C:\\Users\\Administrator\\Desktop\\作业\\银行贷款\\train_ctrUa4K.csv")
 full_data.shape
 
